@@ -1,0 +1,9 @@
+{
+	"species" : {
+		"sbq/Ferrilata_/Ferri" : {
+			"aiFrames" : "HumanAI.png",
+			"portraitFrames" : "portraits/HumanAIportrait.png",
+			"staticFrames" : "HumanAIstatic.png"
+		}
+	}
+}

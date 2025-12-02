@@ -1,0 +1,17 @@
+{
+	"version" : "4.0.1",
+	"tags" : "",
+	"author" : "Ferrilata_",
+	"description" : "Content for SBQ made by Ferrilata_",
+	"link" : "https://www.patreon.com/LokiVulpix",
+	"name" : "SBQ-Ferrilata_",
+	"friendlyName" : "SBQ-Ferrilata_",
+	"includes" : [
+	],
+	"requires" : [
+		"Starbecue"
+	],
+	"scripts" : {
+		"onLoad" : []
+	}
+}
