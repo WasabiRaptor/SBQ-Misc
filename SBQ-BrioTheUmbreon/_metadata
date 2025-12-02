@@ -1,0 +1,12 @@
+{
+	"version" : "1.0",
+	"tags" : "",
+	"author" : "brio & ferrilata",
+	"description" : "They're here for the Starbecue",
+	"link" : "https://github.com/Zygahedron/Starbecue",
+	"name" : "SBQ BRIO NPCS", // the name other mods check for
+	"friendlyName" : "SBQ BRIO NPCS", // the string players would see
+	"includes" : [
+		"Starbecue"
+	]
+}
